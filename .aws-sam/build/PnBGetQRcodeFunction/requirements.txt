@@ -1,0 +1,5 @@
+requests
+python-jose
+amazon-dax-client>=1.1.7
+boto3>=1.18.50
+botocore>=1.21.50
